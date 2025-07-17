@@ -1,8 +1,8 @@
 import React from 'react';
-import Template2 from './templates/Template2';
+import Template from './templates/Template';
 
 function App() {
-  return <Template2 />;
+  return <Template />;
 }
 
 export default App;
